@@ -1,0 +1,14 @@
+#壳apk
+shellApk=androidketest.apk
+
+#需要处理的apk
+processApk=preload.apk
+
+#apktool的相对路径
+apktoolPath=../apktool_2.0.0rc4.jar
+
+#需要处理apk包名
+applicationName=lv.keexample.CApplication
+
+#keystore路径
+keystorepath=~/Documents/keystore/mmykeystore

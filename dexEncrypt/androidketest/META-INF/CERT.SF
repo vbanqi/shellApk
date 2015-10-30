@@ -1,0 +1,64 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: JSdde+H/nS4fBVzWecx2Yc2f2yA=
+Created-By: 1.0 (Android)
+
+Name: lib/armeabi-v7a/libcrypto.so
+SHA1-Digest: W1TRe1aR2RXDD6Vzf9MpLSiBM+k=
+
+Name: lib/x86/libcrypto.so
+SHA1-Digest: OMkyUkIm/T1zWv5TtTpCa2QpS60=
+
+Name: AndroidManifest.xml
+SHA1-Digest: eoD2db1MDMZ9Y7te9sAGuxoPVrU=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: XSDAubB+66D3+LDU4FlbiZLzhNg=
+
+Name: lib/mips/libssl.so
+SHA1-Digest: iHJN3zg71vrVnpUM/6tCOBhonRE=
+
+Name: lib/mips/libcrypto.so
+SHA1-Digest: 2pr5NAH/u98uII7tsf0RytN7oiE=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: lib/armeabi-v7a/libssl.so
+SHA1-Digest: ilps8dqxZKqDqbU8KaTeYVRL9+c=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: lib/armeabi/libssl.so
+SHA1-Digest: mF2PKP7JvXMyEXc8YZTNTPM0+8A=
+
+Name: lib/mips/libendex.so
+SHA1-Digest: c8grFuOqBNMN+k0UiPfsJBi78TE=
+
+Name: lib/armeabi/libendex.so
+SHA1-Digest: x7Z1L2T9G9hUA7OrwMariIX8mGM=
+
+Name: lib/armeabi-v7a/libendex.so
+SHA1-Digest: 1gMk0qrMseJlOunYLtrltDlGQJU=
+
+Name: lib/x86/libssl.so
+SHA1-Digest: FcTel4kZ16aZr8TIsd7nKFUpTJU=
+
+Name: resources.arsc
+SHA1-Digest: bmPVrfs2qgnmz4OLcJxBkwz0RXY=
+
+Name: classes.dex
+SHA1-Digest: g0i3bKIodChKrgOywR962uMMtn8=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: lib/armeabi/libcrypto.so
+SHA1-Digest: qZxC3p0hJeCqX+hXERM2QjrKBr8=
+
+Name: lib/x86/libendex.so
+SHA1-Digest: mkHlLgfAb8z0cavaQjPNiOdmqXg=
+
